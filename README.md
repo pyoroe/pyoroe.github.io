@@ -7,3 +7,6 @@ website :)
 <p>this is a test.<p>
 <body>
 <html>
+layout: page
+title: "PAGE-TITLE"
+permalink: /URL-PATH
