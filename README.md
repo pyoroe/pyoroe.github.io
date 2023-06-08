@@ -3,7 +3,8 @@ website :)
 <!DOCTYPE html.
 <html>
 <body>
-<title>testing<title>  
+<title>testing<title>
+  </head>  
 <h1>Hello World
 <p>this is a test.<p>
 <body>
