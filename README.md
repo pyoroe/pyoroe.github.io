@@ -3,10 +3,8 @@ website :)
 <!DOCTYPE html.
 <html>
 <body>
+<title>testing<title>  
 <h1>Hello World
 <p>this is a test.<p>
 <body>
 <html>
-layout: page
-title: "PAGE-TITLE"
-permalink: /URL-PATH
