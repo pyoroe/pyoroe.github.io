@@ -4,7 +4,8 @@ website :)
 <html>
 <body>
 <title>testing<title>
-  </head>  
+  </head>
+  <body>
 <h1>Hello World
 <p>this is a test.<p>
 <body>
